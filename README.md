@@ -1,0 +1,5 @@
+# FDA-final2-LanlEarthquake
+
+每個測試的版本都只有在create_X這個function以及相關的extract_features、extract_features_roll稍作修改
+
+而不同的hidden layer則是在#define model的那個block更改加入model的layer而已
